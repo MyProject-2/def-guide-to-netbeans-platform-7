@@ -74,8 +74,9 @@
         <netbeans.version>RELEASE70-BETA</netbeans.version>
         <brandingToken>myapplication</brandingToken>
     </properties>
-</project>
 <properties>
   <sonar.organization>myproject-2</sonar.organization>
   <sonar.host.url>https://sonarcloud.io</sonar.host.url>
 </properties>
+
+</project>
